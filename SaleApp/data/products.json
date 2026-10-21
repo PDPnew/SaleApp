@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 18",
+    "price": 67000000,
+    "cates_id": 1,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlo6pbqQSwWuWpar150RJhjZuJJpiLEpeoNsLE027yWA&s=10"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 17",
+    "price": 67000000,
+    "cates_id": 1,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNl5yI2LYXLeZah4uD6L_bnbXFFM65NjWJnaYZQRxNw&s=10"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 16",
+    "price": 67000000,
+    "cates_id": 1,
+    "image":"https://tr.rbxcdn.com/180DAY-a7ba3dccd17462c1da7f2fa5b041eef1/420/420/ShoulderAccessory/Webp/noFilter"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Tab S10 Ultra",
+    "price": 67000000,
+    "cates_id": 2,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3D8YqYuu990G12iGTfk-DPcIsVWgPI8OV0IwxbY8RKQ&s=10"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Tab S12 Ultra",
+    "price": 67000000,
+    "cates_id": 2,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUV2AhWn2VvEmIQfaVNYQRgU-3uTw47zjLrx7QEjU7Cw&s=10"
+  },
+  {
+    "id": 6,
+    "name": "Lenovo Legion 5",
+    "price": 67000000,
+    "cates_id": 3,
+    "image":"https://media.tenor.com/aZKY3vlpjGIAAAAe/angry-bird-listening-angry-bird-ear.png"
+  },
+ {
+    "id": 7,
+    "name": "Asus Tuf Dash F15",
+    "price": 67000000,
+    "cates_id": 3,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpeMFolwNAvMbERkdaX8KMl-FDxglwcdt5SkCbk0fK3Q&s=10"
+  },
+   {
+    "id": 8,
+    "name": "Acer Nitro 5",
+    "price": 67000000,
+    "cates_id": 3,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dNATmzctSd6yI-ZOHsYj4v0ztL1ToRBidBncP7M5Uwiu1DQkuMfS-q3d&s=10"
+  },
+   {
+    "id": 9,
+    "name": "PC chien game lua ga",
+    "price": 67000000,
+    "cates_id": 4,
+    "image":"https://preview.redd.it/the-original-red-angry-bird-listening-meme-before-it-was-v0-dlfei8jnk2dg1.png?width=374&format=png&auto=webp&s=e081d3c2163943394808ae255fb609b9dbad26be"
+  },
+  {
+    "id": 10,
+    "name": "PC chien full game youtube",
+    "price": 67000000,
+    "cates_id": 4,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYONrJickU2Z0EK5-upO3NuAej5ft3N5dxV5DlODxTw&s=10"
+  },
+  {
+    "id": 11,
+    "name": "PC chien roblox",
+    "price": 67000000,
+    "cates_id": 4,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9RSlXk7daWhxh3MgWY8d4XU-BL0SAlx3yii9qsYc2Q&s=10"
+  }
+
+]
